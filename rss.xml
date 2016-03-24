@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[No Honor Among Thieves/CT Hardcore Metal]]></title>
         <description><![CDATA[No Honor Among Thieves/CT Hardcore Metal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nhat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 18:38:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 18:44:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nhat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b31c13-10af-4169-baa8-b465f832ff8a.png">]]></description>
-            <link>undefined96dc5f1a-ff70-4947-ab86-a518d42547f1/index.html</link>
+            <link>https://thegrid.ai/nhat/96dc5f1a-ff70-4947-ab86-a518d42547f1/index.html</link>
             <guid isPermaLink="false">96dc5f1a-ff70-4947-ab86-a518d42547f1</guid>
-            <pubDate>Thu, 24 Mar 2016 18:38:10 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 18:44:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
