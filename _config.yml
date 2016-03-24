@@ -1,6 +1,6 @@
 name: NHAt
 favicon: null
-layout_spectrum: 0.29749
+layout_spectrum: 0.31845
 typography_spectrum: 0.5977
 title: No Honor Among Thieves/CT Hardcore Metal
 cta:
@@ -23,7 +23,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.1875
-  lightness: 0.4375
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
